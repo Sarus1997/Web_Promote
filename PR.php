@@ -16,6 +16,7 @@
   <script src="code.js"></script>
 
 <body>
+
   </head>
 
   <body id="myPage" data-spy="scroll" data-target=".navbar" data-offset="50">
@@ -28,6 +29,7 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
+
           <a class="navbar-brand" href="#myPage">ITD Wu</a>
         </div>
         <div class="collapse navbar-collapse" id="myNavbar">
@@ -56,7 +58,7 @@
           <img
             src="https://scontent.fbkk5-7.fna.fbcdn.net/v/t39.30808-6/263457131_5341526952530451_1928673339556558494_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=730e14&_nc_eui2=AeFixjixjqgyhLh3lFj0UqCktLfq5BPpa9S0t-rkE-lr1MuHn21FkXZkM72KF1e2Q81LKam_XYKzIKoQBFDTX5r9&_nc_ohc=P_wI_FC93WwAX_no2bH&_nc_ht=scontent.fbkk5-7.fna&oh=659e9e1095c514c7566947d7e690c3f3&oe=61BD34CA">
           <div class="carousel-caption">
-            <h3></h3>
+            <h3>ITD</h3>
             <h5></h5>
           </div>
         </div>
@@ -65,7 +67,7 @@
           <img
             src="https://scontent.fbkk5-5.fna.fbcdn.net/v/t39.30808-6/265206935_5341526839197129_4896153949655991794_n.png?_nc_cat=100&ccb=1-5&_nc_sid=730e14&_nc_eui2=AeGmnm2s1CbnZqjWwAcZ8xRxPjPbrRqEKOw-M9utGoQo7O0g6IuEY4_OlzQDQBo5snLLt68TMo3muyWIG1LvwqtJ&_nc_ohc=vTrFOoPv8dQAX_73FxT&_nc_ht=scontent.fbkk5-5.fna&oh=4cfbeb9665e53c179609198287ca63da&oe=61BBBEE5">
           <div class="carousel-caption">
-            <h3></h3>
+            <h3>ITD</h3>
             <h5></h5>
           </div>
         </div>
@@ -74,7 +76,7 @@
           <img
             src="https://scontent.fbkk5-7.fna.fbcdn.net/v/t39.30808-6/266129706_5341526972530449_3211462295337844812_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=730e14&_nc_eui2=AeEAvCqxh2QeSgrDMwMD6AxSbJSj7Diq3ytslKPsOKrfK9WlATOl73c-jpeDltYDc4Ep-dyUuf78hTT_d_TkSQvV&_nc_ohc=ifAkmTh1wfEAX9U2omz&_nc_ht=scontent.fbkk5-7.fna&oh=f2411a80cdadfbaeb0a530e3c3fac08d&oe=61BC42B7">
           <div class="carousel-caption">
-            <h3></h3>
+            <h3>ITD</h3>
             <h5></h5>
           </div>
         </div>
@@ -145,13 +147,12 @@
         <p class="text-center">ประชาสัมพันธ์ต่างๆ<br> และกิจกรรมอีกมากมาย</p>
 
 
-        <center>
           <div class="row">
             <div class="col-sm-12">
               <div class="thumbnail">
                 <img
                   src="https://scontent.fbkk5-5.fna.fbcdn.net/v/t39.30808-6/240319684_5128234003859748_231146142737833805_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=730e14&_nc_eui2=AeEWTXPsrKP0pveZVCorVKEMtpcy3iNfO862lzLeI187zg6s6vOUk0coJsvyT5ilJol04i6sslkEH8zATSed-_VB&_nc_ohc=SL_nJHjsyZgAX8J-T22&_nc_ht=scontent.fbkk5-5.fna&oh=00_AT9hO0q4eD3lsebxx5gwJTwWD4oFS288fCs10be29H3vcw&oe=61B82642">
-                <p><strong>สมัครเรียน</strong> </p>
+                <p><strong>สมัครเรียน</strong></p>
                 <a href="https://entry.wu.ac.th/" class="button">Click!</a>
               </div>
             </div>
@@ -205,9 +206,7 @@
             </div>
           </div>
       </div>
-      </center>
 
-      <center>
         <div class="thumbnail01">
           <hr>
           <p>*Interesting details in each branch*</p>
@@ -228,7 +227,6 @@
           <hr>
         </div>
     </div>
-    </center>
 
     <div id="contact" class="container">
       <h3 class="text-center">Contact</h3>
