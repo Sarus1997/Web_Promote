@@ -207,6 +207,8 @@
           </div>
       </div>
 
+
+      <center>
         <div class="thumbnail01">
           <hr>
           <p>*Interesting details in each branch*</p>
@@ -227,6 +229,7 @@
           <hr>
         </div>
     </div>
+    </center>
 
     <div id="contact" class="container">
       <h3 class="text-center">Contact</h3>
