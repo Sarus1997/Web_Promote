@@ -51,7 +51,7 @@
 
     <div class="carousel-inner" role="listbox">
       <div class="item active">
-        <img src="https://scontent.fbkk5-5.fna.fbcdn.net/v/t39.30808-6/240319684_5128234003859748_231146142737833805_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=730e14&_nc_eui2=AeEWTXPsrKP0pveZVCorVKEMtpcy3iNfO862lzLeI187zg6s6vOUk0coJsvyT5ilJol04i6sslkEH8zATSed-_VB&_nc_ohc=G_QEjv_jiI0AX-RilIh&_nc_ht=scontent.fbkk5-5.fna&oh=00_AT-2wOy7wCbMS-rs3mfsdRbL9hH73aX6Mo6OiUrBPso7UQ&oe=61BE1502">
+        <img src="https://scontent.fbkk5-7.fna.fbcdn.net/v/t39.30808-6/263457131_5341526952530451_1928673339556558494_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=730e14&_nc_eui2=AeFixjixjqgyhLh3lFj0UqCktLfq5BPpa9S0t-rkE-lr1MuHn21FkXZkM72KF1e2Q81LKam_XYKzIKoQBFDTX5r9&_nc_ohc=P_wI_FC93WwAX_no2bH&_nc_ht=scontent.fbkk5-7.fna&oh=659e9e1095c514c7566947d7e690c3f3&oe=61BD34CA">
         <div class="carousel-caption">
           <h3></h3>
           <h5></h5>
@@ -138,7 +138,7 @@
     <div class="row">
       <div class="col-sm-12">
         <div class="thumbnail">
-          <img src="https://scontent.fbkk5-5.fna.fbcdn.net/v/t39.30808-6/240319684_5128234003859748_231146142737833805_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=730e14&_nc_eui2=AeEWTXPsrKP0pveZVCorVKEMtpcy3iNfO862lzLeI187zg6s6vOUk0coJsvyT5ilJol04i6sslkEH8zATSed-_VB&_nc_ohc=SL_nJHjsyZgAX8J-T22&_nc_ht=scontent.fbkk5-5.fna&oh=00_AT9hO0q4eD3lsebxx5gwJTwWD4oFS288fCs10be29H3vcw&oe=61B82642">
+          <img src="https://scontent.fbkk5-5.fna.fbcdn.net/v/t39.30808-6/240319684_5128234003859748_231146142737833805_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=730e14&_nc_eui2=AeEWTXPsrKP0pveZVCorVKEMtpcy3iNfO862lzLeI187zg6s6vOUk0coJsvyT5ilJol04i6sslkEH8zATSed-_VB&_nc_ohc=G_QEjv_jiI0AX-RilIh&_nc_ht=scontent.fbkk5-5.fna&oh=00_AT-2wOy7wCbMS-rs3mfsdRbL9hH73aX6Mo6OiUrBPso7UQ&oe=61BE1502">
           <p><strong>สมัครเรียน</strong> </p>
           <a href="https://entry.wu.ac.th/" class="button">Click!</a>
         </div>
