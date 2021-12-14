@@ -102,8 +102,7 @@
         <div class="col-sm-4">
           <p class="text-center"><strong>อาจายร์ผู้สอน</strong></p><br>
           <a href="#demo" data-toggle="collapse">
-            <img
-              src="https://scontent.fbkk5-5.fna.fbcdn.net/v/t1.6435-9/116578260_10223663592081577_4838618999023202440_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=8bfeb9&_nc_eui2=AeHqLM94GC8FK58Dg6YIrpwR5781VMYbgTrnvzVUxhuBOu_g1SXq8I3mLUtF76RZTmq7zSU8SArcraIKr77wsJbv&_nc_ohc=GmAfXo8RZoAAX-K8LbR&tn=2CQ3NZhfApQJcaQT&_nc_ht=scontent.fbkk5-5.fna&oh=00_AT8CCji0jKqFSADyDeeuzbHtZJFhR68c1dvBJwz8_nYTJw&oe=61DBC1C3"
+            <img src="https://scontent.fbkk5-5.fna.fbcdn.net/v/t39.30808-6/240319684_5128234003859748_231146142737833805_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=730e14&_nc_eui2=AeEWTXPsrKP0pveZVCorVKEMtpcy3iNfO862lzLeI187zg6s6vOUk0coJsvyT5ilJol04i6sslkEH8zATSed-_VB&_nc_ohc=G_QEjv_jiI0AX-RilIh&_nc_ht=scontent.fbkk5-5.fna&oh=00_AT-2wOy7wCbMS-rs3mfsdRbL9hH73aX6Mo6OiUrBPso7UQ&oe=61BE1502"
               class="img-circle person" alt="Random Name" width="255" height="255">
           </a>
           <div id="demo" class="collapse">
@@ -146,7 +145,7 @@
         <h3 class="text-center">* ข่าวสาร *</h3>
         <p class="text-center">ประชาสัมพันธ์ต่างๆ<br> และกิจกรรมอีกมากมาย</p>
 
-
+        <center>
           <div class="row">
             <div class="col-sm-12">
               <div class="thumbnail">
@@ -206,7 +205,7 @@
             </div>
           </div>
       </div>
-
+      </center>
 
       <center>
         <div class="thumbnail01">
