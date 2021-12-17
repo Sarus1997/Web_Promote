@@ -159,7 +159,7 @@
             <div class="col-sm-6">
               <div class="thumbnail">
                 <img
-                  src="https://scontent.fbkk5-8.fna.fbcdn.net/v/t39.30808-6/266268798_5341426419207171_4826837247509475808_n.jpg?_nc_cat=106&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeEtMwjgOSnl-s7Y91sgFuSUdVT_xS2Oakl1VP_FLY5qSdh9bRdoksRqX9VNhJYnqrwiSjQmi0ZuUlIUt2G5FYy9&_nc_ohc=izLT0pcYELkAX_RCBee&_nc_ht=scontent.fbkk5-8.fna&oh=d089389907ee8518156347082690e168&oe=61BA44D9">
+                  src="https://scontent.fbkk5-8.fna.fbcdn.net/v/t39.30808-6/266268798_5341426419207171_4826837247509475808_n.jpg?_nc_cat=106&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeEtMwjgOSnl-s7Y91sgFuSUdVT_xS2Oakl1VP_FLY5qSdh9bRdoksRqX9VNhJYnqrwiSjQmi0ZuUlIUt2G5FYy9&_nc_ohc=cpBktfYOd-cAX_crnz1&_nc_ht=scontent.fbkk5-8.fna&oh=00_AT_Z14mQsYh2Ot-v4JgfGSSFdbQnm1RlHiblP9J_Tf-6zQ&oe=61C22DD9">
                 <p><strong>Fanpage ITD</strong></p>
                 <a href="https://www.facebook.com/it.walailak/" class="button">Click!</a>
               </div>
