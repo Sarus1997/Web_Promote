@@ -234,7 +234,7 @@
     <div class="thumbnail01">
       <p class="text-center">เรียนสาขานี้ทำงานอะไรได้บ้าง</p>
       <p class="text-center">นี่เลย!!</p>
-      <h3 class="text-center">Front-End</h3>
+      <h3 class="text-center">Front-End และ Back-End</h3>
       <img src="https://blog.sogoodweb.com/upload/510/wAF2483FDc.png" width="745" height="420">
       <hr>
     </div>
@@ -297,6 +297,11 @@
             ส่วน back-end จะต้องจัดการข้อมูลและจัดการเว็บไซต์อย่างไรเพื่อไม่ให้ระบบนั้นช้าลงในการแสดงผล</p>
           
           <hr>
+          <br>
+          <h1 class="text1"><b>ฐานเงินเดือน Front-End และ Back-End</b></h1>
+            <p>Front-End Developer 20,000 -30,000 บาท <br> Front-End Engineering 40,000 บาทขึ้นไป <br> Senior Front-End Developer 80,000 บาทขึ้นไป</p>
+            <hr>
+
         </div>
         <div id="menu1" class="tab-pane fade">
         </div>
