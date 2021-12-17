@@ -33,7 +33,7 @@
   }
   @media (max-width: 600px) {
     .carousel-caption {
-      display: none; /
+      display: none; 
     }
   }
   .bg-1 {
@@ -172,3 +172,9 @@
     color: rgb(39, 39, 39);
     border: 2%;
   }
+
+  .text1{
+    font-size: 17px;
+
+  }
+
